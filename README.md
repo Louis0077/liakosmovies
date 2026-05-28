@@ -3,6 +3,7 @@
 Μια web εφαρμογή διαχείρισης ταινιών φτιαγμένη με PHP και MySQL.  
 Επιτρέπει την προβολή, προσθήκη, επεξεργασία και διαγραφή ταινιών μέσω ενός admin panel.
 
+🌐 **Live Demo:** [liakosmovies.infinityfreeapp.com](https://liakosmovies.infinityfreeapp.com)
 ---
 
 ## Χαρακτηριστικά
